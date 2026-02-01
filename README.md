@@ -18,6 +18,6 @@
 - **XDA Forums:** [liquidlavaz](https://xdaforums.com/account/account-details)
 - **GitHub:** [lavazlife](https://github.com/lavazlife)
 
----
 
 *"Reject the mundane."*
+
