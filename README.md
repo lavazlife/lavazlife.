@@ -14,7 +14,7 @@
   <img src="skill-badge-5-systemadmin.png"width="200" alt="Russ's Tech Skills">
   <img src="skill-badge-1-Python.png"width="200" alt="Russ's Tech Skills">
   <img src="skill-badge-3-androidmodding.png"width="175" alt="Russ's Tech Skills">
-  <img src="skill-badge-4-ITInfrastructure.png"width="150" alt="Russ's Tech Skills">
+  <img src="skill-badge-4-ITInfrastructure.png"width="170" alt="Russ's Tech Skills">
   <img src="skill-badge-2-java.png"width="200" alt="Russ's Tech Skills">
 </p>
 
@@ -53,6 +53,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 *"Reject the mundane."*
+
 
 
 
