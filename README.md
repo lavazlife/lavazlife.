@@ -11,7 +11,7 @@
 - **Philosophy:** Finding hidden patterns beneath consensus reality.
 
 - <p align="center">
-  <img src="skill-badges.png" width="600" alt="Russ's Tech Skills">
+  <img src="skill-badges.png](https://github.com/lavazlife/lavazlife./blob/main/skill-badge-2-java.png" width="600" alt="Russ's Tech Skills">
 </p>
 
 ### 🌐 Connect with Me
@@ -20,4 +20,5 @@
 
 
 *"Reject the mundane."*
+
 
