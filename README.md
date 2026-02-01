@@ -11,7 +11,7 @@
 - **Philosophy:** Finding hidden patterns beneath consensus reality.
 
 <p align="center">
-  <img src="skill-badge-1-Python.png" width="300" alt="Russ's Tech Skills">
+  <img src="skill-badge-1-Python.png" width="200" alt="Russ's Tech Skills">
 </p>
 
 ### 🌐 Connect with Me
@@ -49,6 +49,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 *"Reject the mundane."*
+
 
 
 
