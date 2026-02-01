@@ -10,9 +10,14 @@
 - **Interests:** Mobile Development, Android Modding, Systems IT
 - **Philosophy:** Finding hidden patterns beneath consensus reality.
 
+- <p align="center">
+  <img src="skill-badges.png" width="600" alt="Russ's Tech Skills">
+</p>
+
 ### 🌐 Connect with Me
 - **XDA Forums:** [liquidlavaz](https://xdaforums.com/account/account-details)
 - **GitHub:** [lavazlife](https://github.com/lavazlife)
 
 ---
+
 *"Reject the mundane."*
