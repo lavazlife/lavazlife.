@@ -10,26 +10,11 @@
 - **Interests:** Mobile Development, Android Modding, Systems IT
 - **Philosophy:** Finding hidden patterns beneath consensus reality.
 
-<p align="center">
-  <img src="skill-badge-5-systemadmin.png"width="80" alt="Russ's Tech Skills">
-  <img src="skill-badge-1-Python.png"width="80" alt="Russ's Tech Skills">
-  <img src="skill-badge-3-androidmodding.png"width="80" alt="Russ's Tech Skills">
-  <img src="skill-badge-4-ITInfrastructure.png"width="80" alt="Russ's Tech Skills">
-  <img src="skill-badge-2-java.png"width="80" alt="Russ's Tech Skills">
-</p>
-
-### 🌐 Connect with Me
-- **XDA Forums:** [liquidlavaz](https://xdaforums.com/account/account-details)
-- **GitHub:** [lavazlife](https://github.com/lavazlife)
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavazlife&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavazlife&theme=radical" alt="GitHub Streak">
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🔥 What I'm Currently Working On
 - 🎓 Pursuing my IT degree
@@ -46,13 +31,23 @@
 - [ ] Share knowledge through documentation and guides
 
 ### 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🌐 Connect with Me
+- **XDA Forums:** [liquidlavaz](https://xdaforums.com/account/account-details)
+- **GitHub:** [lavazlife](https://github.com/lavazlife)
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lavazlife&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavazlife&theme=radical" alt="GitHub Streak">
+</p>
+
 
 *"Reject the mundane."*
+
 
 
 
