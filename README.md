@@ -10,11 +10,11 @@
 - **Interests:** Mobile Development, Android Modding, Systems IT
 - **Philosophy:** Finding hidden patterns beneath consensus reality.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🔥 What I'm Currently Working On
 - 🎓 Pursuing my IT degree
@@ -30,7 +30,6 @@
 - [ ] Enhance system administration skills
 - [ ] Share knowledge through documentation and guides
 
-### 🛠️ Technologies & Tools
 
 ### 🌐 Connect with Me
 - **XDA Forums:** [liquidlavaz](https://xdaforums.com/account/account-details)
@@ -47,6 +46,7 @@
 
 
 *"Reject the mundane."*
+
 
 
 
